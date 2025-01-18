@@ -1,0 +1,1 @@
+This repository contains example Python code demonstrating two common runtime errors: ZeroDivisionError and TypeError.  The `bug.py` file shows the buggy code, while `bugSolution.py` presents a robust solution using exception handling.
